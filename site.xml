@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="CheckmarxTestUpdateSite">
+      This is the update site for CheckmarxTest plugin and feature
+   </description>
+   <feature url="features/com.checkmarx.eclipse.feature_1.0.0.202202091024.jar" id="com.checkmarx.eclipse.feature" version="1.0.0.202202091024">
+      <category name="CheckmarxTest"/>
+   </feature>
+   <category-def name="CheckmarxTest" label="CheckmarxTest"/>
+</site>
